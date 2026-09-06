@@ -1,0 +1,12 @@
+﻿metric,value
+heatmap_genes,1498
+heatmap_samples,36
+tested_genes,16143
+background_entrez_ids,13927
+selected_entrez_ids,1339
+advanced_passage_definition,equal-weight average of Middle and Late vs Early Passage
+upregulated_advanced_vs_early_entrez_ids,554
+downregulated_advanced_vs_early_entrez_ids,785
+KEGG_FDR_cutoff,0.05
+significant_KEGG_upregulated_advanced_vs_early,29
+significant_KEGG_downregulated_advanced_vs_early,12

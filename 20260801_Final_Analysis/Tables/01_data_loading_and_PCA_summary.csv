@@ -1,0 +1,12 @@
+﻿metric,value
+input_file,../DESeq2_Chiu.xlsx
+input_md5,ae75d18f55a37aad6d1b5828e272c6d3
+input_genes,33838
+samples,36
+expression_filter_rule,normalized count >= 10 in >= 3 samples
+expression_filter_genes,16143
+PCA_genes,1000
+PCA_centered,TRUE
+PCA_scaled,FALSE
+PC1_variance_percent,64.293642
+PC2_variance_percent,19.549209

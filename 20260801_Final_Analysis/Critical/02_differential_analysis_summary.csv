@@ -1,0 +1,13 @@
+﻿metric,value
+input_genes,33838
+expression_filter_genes,16143
+post_differentiation_contrasts,6
+joint_FDR_cutoff,0.05
+joint_selected_genes,11120
+average_effect_FDR_cutoff,0.05
+average_fold_change_cutoff,2
+advanced_passage_definition,equal-weight average of Middle and Late vs Early Passage
+direction_requirement,all six contrasts must have the same sign
+post_selected_genes,1498
+downregulated_advanced_vs_early_genes,877
+upregulated_advanced_vs_early_genes,621
